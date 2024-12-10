@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ## 🌈 Contribution guidelines:
 
-We have two main repositories of the platform: the [frontend](https://github.com/airqi-com/frontend) and the [backend](https://github.com/airqi-com/user-management)
+We have two main repositories of the platform: the [frontend](https://github.com/airqi-com/frontend) and the [backend](https://github.com/airqi-com/airqi-backend)
 
 Start by setting up your frontend and backend locally reading the instructions in the `frontend/README.md`
 Check the issues and select one you'd like to work on - write in it so that it can be assigned to you
